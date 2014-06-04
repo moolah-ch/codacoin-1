@@ -1,6 +1,5 @@
 # Codacoin Core [CODA]
 ==========================
-
 Information here is subject to change, this is the initial concept.
 
 ##License
@@ -43,3 +42,18 @@ RPC: 12002
 
 ##Ticker
 CODA
+
+##Services
+*Web Wallets*
+
+* https://moolah.io
+
+*Web wallets are not insecure if done properly, but are inherently more prone to attack than a desktop or offline wallet. Never keep all your funds in one place, unless it is securely offline, and keep backups!*
+
+*Exchanges*
+
+https://trade.moolah.io/
+
+*Merchant Processing*
+
+https://moolah.io/
