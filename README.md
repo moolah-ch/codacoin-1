@@ -44,16 +44,18 @@ RPC: 12002
 CODA
 
 ##Services
-*Web Wallets*
+**Web Wallets**
 
 * https://moolah.io
 
 *Web wallets are not insecure if done properly, but are inherently more prone to attack than a desktop or offline wallet. Never keep all your funds in one place, unless it is securely offline, and keep backups!*
 
-*Exchanges*
+**Exchanges**
 
 https://trade.moolah.io/
 
-*Merchant Processing*
+*Exchanges should not be used as a wallet. You should only keep funds that you are intending to trade on them.*
+
+**Merchant Processing**
 
 https://moolah.io/
