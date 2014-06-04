@@ -1,27 +1,19 @@
 # Codacoin Core [CODA]
 ==========================
 Information here is subject to change, this is the initial concept.
-
 ##License
-
 Codacoin is released under the terms of the MIT license. See [COPYING](COPYING) 
 for more information or see http://opensource.org/licenses/MIT.
-
 ##Algorithm
 For the first 6 months, Codacoin utilizes X11 as a proof of work algorithm. Past this point, for long-term network security and stability, Codacoin switches to standard SCRYPT. At this time (block 262,975), proof of stake is also enabled at a 0.1% interest rate. Once year 5 hits, this interest rate is increased to 0.15%.
-
 ##Block Time
 60 seconds.
-
 ##Difficulty
 Rapid retargeting, every block.
-
 ##Initial Reward
 256 coins per block.
-
 ##Interest Accumulation
 After month 6, proof of stake is enabled at a 0.1% rate. Once year 5 hits, this is increased to 0.15%.
-
 ##Subsidy Halving
 The coin reward halves every 262,975 blocks (6 months ~). The subsidy will never drop below 1 CODA.
 
@@ -34,15 +26,12 @@ The coin reward halves every 262,975 blocks (6 months ~). The subsidy will never
 * *Y4 M1-6:* 4 CODA per block. 1,051,900 issued.
 * *Y4 M6-12:* 2 CODA per block. 525,950 issued.
 * *Y5+:* 1 CODA per block. 262,975 issued per year. (0.19% inflation in year 5).
-
 ##Ports
 P2P: 12001
 
 RPC: 12002
-
 ##Ticker
 CODA
-
 ##Services
 **Web Wallets**
 
@@ -52,10 +41,10 @@ CODA
 
 **Exchanges**
 
-https://trade.moolah.io/
+* https://trade.moolah.io/
 
 *Exchanges should not be used as a wallet. You should only keep funds that you are intending to trade on them.*
 
 **Merchant Processing**
 
-https://moolah.io/
+* https://moolah.io/
