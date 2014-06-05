@@ -26,6 +26,7 @@ The coin reward halves every 262,975 blocks (6 months ~). The subsidy will never
 * *Y4 M1-6:* 4 CODA per block. 1,051,900 issued.
 * *Y4 M6-12:* 2 CODA per block. 525,950 issued.
 * *Y5+:* 1 CODA per block. 262,975 issued per year. (0.19% inflation in year 5).
+
 ##Ports
 P2P: 12001
 
